@@ -1,0 +1,20 @@
+{
+    "name": "cordova-BluetoothSco",
+    "version": "1.0.0",
+    "description": "Enable bluetooth sco on android",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/username/plugin-repository.git"
+    },
+    "keywords": [],
+    "author": "gntikos",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gntikos/cordova-BluetoothSco/issues"
+    },
+    "homepage": "https://github.com/gntikos/cordova-BluetoothSco#readme"
+}
